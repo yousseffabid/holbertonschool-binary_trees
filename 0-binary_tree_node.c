@@ -2,7 +2,7 @@
 /**
  * binary_tree_node - creates a binary tree node
  *
- * @parent: parent/root node
+ * @parent: parent/root node.
  * @value: data
  * Return: binary_tree_t*
  */
